@@ -8,8 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@amplitude/analytics-browser": "^2.11.11",
     "axios": "^0.21.1",
-    "next": "latest",
+    "next": "13.1.6",
     "next-themes": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
